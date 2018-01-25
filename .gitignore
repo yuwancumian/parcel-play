@@ -1,7 +1,7 @@
-/node_modules/
-/bower_components/
-/spm_modules
-/dist
+node_modules
+bower_components
+spm_modules
+dist
 .cache
 .gist
 *.sublime-project
