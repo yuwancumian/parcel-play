@@ -1,2 +1,3 @@
 import {format} from 'date-fns';
-console.log(format)
+console.log(1234)
+console.log(format())
